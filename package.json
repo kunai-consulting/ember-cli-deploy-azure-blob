@@ -11,7 +11,7 @@
     "start": "ember server",
     "test": "ember try:testall"
   },
-  "repository": "https://github.com/duizendnegen/ember-cli-deploy-azure-blob",
+  "repository": "https://github.com/kunai-consulting/ember-cli-deploy-azure-blob",
   "engines": {
     "node": ">= 0.10.0"
   },
